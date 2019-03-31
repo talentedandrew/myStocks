@@ -4,3 +4,4 @@ static/sw.js
 *-error.log
 *lock.json
 yarn.lock
+.DS_Store

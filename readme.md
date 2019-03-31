@@ -2,7 +2,7 @@
 
 A dummy app with real-time stock data using react, redux along with charting library ( apexcharts )
 
-![myStocks](./image.png)
+![myStocks](./myStocks.png)
 
 ## About
 
