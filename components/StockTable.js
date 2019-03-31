@@ -132,7 +132,7 @@ class StockTable extends Component {
 											)}
 										</div>
 										<div className={`price ${status}`}>
-											{Number(stocks[stock].price).toFixed(2)}
+											${Number(stocks[stock].price).toFixed(2)}
 										</div>
 										<div className="text-clear" />
 									</div>

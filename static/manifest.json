@@ -1,6 +1,6 @@
 {
-  "name": "NextSimpleStarter",
-  "short_name": "Next PWA",
+  "name": "MyStocks",
+  "short_name": "MyStocks",
   "icons": [
     {
       "src": "img/apple-touch-icon-120x120.png",
