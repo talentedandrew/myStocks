@@ -8,7 +8,7 @@
 	"dependencies": {
 		"apexcharts": "^3.6.4",
 		"isomorphic-fetch": "^2.2.1",
-		"next": "^8.0.0",
+		"next": "^9.3.3",
 		"next-redux-wrapper": "^2.0.0",
 		"node-sass": "^4.9.3",
 		"normalize-scss": "^7.0.1",
